@@ -1,0 +1,6 @@
+
+Upload a new project to github
+Always use the root folder: in this case "comti-java" 
+
+
+Get the code of an existing project
