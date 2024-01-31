@@ -1,6 +1,13 @@
 
-Upload a new project to github
-Always use the root folder: in this case "comti-java" 
+Upload a new project to Github
+________________________________
+
+Always use the root folder: in this case "comit-java" 
+Ensure you have .gitignore file in the root folder
+
 
 
 Get the code of an existing project
+____________________________________
+
+create a comit-java repository in github online
